@@ -6,14 +6,10 @@ Markdown Test
 Code is here.
 ```
 
-* * *
-
 ## User.js
 ```
 Code is here.
 ```
-
-* * *
 
 ## Chatting.js
 ```
