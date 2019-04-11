@@ -1,6 +1,7 @@
 Markdown Test
 =============
 |component||
+|:--------||
 | |atoms|
 | |molecules|
 | |organisms|
