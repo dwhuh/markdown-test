@@ -1,11 +1,15 @@
 Markdown Test
 =============
 
-|component||
+|**component**||
 |:--------|:--------|
 ||atoms|
 ||molecules|
 ||organisms|
 ||pages|
 ||templates|
-
+|**containers**||
+|**lib**||
+|**static**||
+||images|
+|**styles**||
