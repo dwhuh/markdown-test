@@ -1,9 +1,9 @@
 Markdown Test
 =============
-|component|:--------|
-|:--------|:--------|
-|:--------|atoms|
-|:--------|molecules|
-|:--------|organisms|
-|:--------|pages|
-|:--------|templates|
+|component||
+|||
+||atoms|
+||molecules|
+||organisms|
+||pages|
+||templates|
